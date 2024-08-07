@@ -1,0 +1,110 @@
+[
+        {
+            "id": 1,
+            "text": "Is leaf mainly affected?"
+        },
+        {
+            "id": 2,
+            "text": "Any distinct smell produced from affected portions of the plant?"
+        },
+        {
+            "id": 3,
+            "text": "Is stunting observed in the affected plant?"
+        },
+        { 
+            "id": 4,
+            "text": "Is any insect vector involved?"
+        },
+        { 
+            "id": 5,
+            "text": "Is reddening observed in any part of the plant?"
+        },
+        { 
+            "id": 6,
+            "text": "Is internode affected?"
+        },
+        { 
+            "id": 7,
+            "text": "Is black colored whip like structure observed between leaf sheaths?"
+        },
+        { 
+            "id": 8,
+            "text": "Is there profuse tillering?"
+        },
+        { 
+            "id": 9,
+            "text": "Is reddening observed in the midrib of the plant specifically?"
+        },
+        { 
+            "id": 10,
+            "text": "Is drying of plants observed from long distance?"
+        },
+        { 
+            "id": 11,
+            "text": "Is central blackening of internal sett observed?"
+        },
+        { 
+            "id": 12,
+            "text": "Are small, elongated yellowish or reddish brown spots visible on both leaf surfaces?"
+        },
+        { 
+            "id": 13,
+            "text": "Is there pithiness and boat shaped cavities in the middle of the internodes?"
+        },
+        { 
+            "id": 14,
+            "text": "Is there orange pin head dots on internode?"
+        },
+        { 
+            "id": 15,
+            "text": "Is there boring observed  in plants?"
+        },
+        { 
+            "id": 16,
+            "text": "Is there boreholes at the base of the shoot?"
+        },
+        { 
+            "id": 17,
+            "text": "Is there boreholes plugged with excreta in the nodal region?"
+        },
+        { 
+            "id": 18,
+            "text": "Is there boreholes at the top of the shoot?"
+        },
+        { 
+            "id": 19,
+            "text": "Does infested leaf look like white and black dots?"
+        },
+        { 
+            "id": 20,
+            "text": "Is there deposition of wolly matter on ground or soil?"
+        },
+        { 
+            "id": 21,
+            "text": "Is there pinkish oval insect beneath leaf sheath?"
+        },
+        { 
+            "id": 22,
+            "text": "Is there appearance of yellowish green color in leaves?"
+        },
+        { 
+            "id": 23,
+            "text": "Is there appearance of red purplish discolouration in leaves?"
+        },
+        { 
+            "id": 24,
+            "text": "Is there reduction in root development?"
+        },
+        { 
+            "id": 25,
+            "text": "Is there dieback of older leaf?"
+        },
+        { 
+            "id": 26,
+            "text": "Is there appearnce of orange yellow color in older lower leaf?"
+        },
+        { 
+            "id": 27,
+            "text": "Is there rusty or freckled appearance spotting on older leaf?"
+        }
+ ]
