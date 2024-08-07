@@ -43,3 +43,4 @@ document.addEventListener("DOMContentLoaded", function() {
         resultElement.textContent = diagnosis;
     });
 });
+
